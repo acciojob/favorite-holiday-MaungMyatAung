@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+/* styles.css */
+body {
+    font-family: Arial, sans-serif; /* Set font for the body */
+    line-height: 1.6;               /* Set line height for readability */
+    margin: 20px;                   /* Add margin around the body */
+}
+
+h1 {
+    color: #2c3e50;                 /* Set color for the main heading */
+}
+
+h2 {
+    color: #34495e;                 /* Set color for subheadings */
+}
+
+p {
+    color: #34495e;                 /* Set color for paragraphs */
+}
+
+ol, ul {
+    margin: 10px 0;                /* Add margin to lists */
+}
